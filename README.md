@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 This repository contains the project for the Getting and Cleaning Data Course by Cousera.
-The main file is called run_analysis.R which will read all the raw data files and will output a tidy data set.
+The main file is called [run_analysis.R](run_analysis.R) which will read all the raw data files and will output a tidy data set.
 
 For details about the variables, refer to [CodeBook.md](CodeBook.md)
 ## Required R Packages
@@ -15,4 +15,4 @@ The raw data comes from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Re
 
 ## Running the script
 
-Extract the zip into the ./data directory and run [run_analysis.R](run_analysis). Once run the results will be in the ./data/tidy_data.txt
+Extract the zip into the ```./data``` directory and run [run_analysis.R](run_analysis). Once run the results will be in the ```./data/tidy_data.txt```
